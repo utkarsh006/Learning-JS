@@ -1,2 +1,1 @@
-# Learning-JS
-Created for Learning JS
+- [Resource 1](https://www.javascripttutorial.net/)
