@@ -1,2 +1,1 @@
-- [Videos](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
-- [Docs](https://www.javascripttutorial.net/)
+- [Videos](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) &nbsp;&nbsp; [Docs](https://www.javascripttutorial.net/)  &nbsp;&nbsp; [Online Compiler](https://www.programiz.com/javascript/online-compiler/)
