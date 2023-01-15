@@ -37,3 +37,13 @@ container.splice(2,3,1220,1450)//start from idx 2 and removes 3 elements and add
 console.log(container)
 
 
+/* [1,2,3,4,5,6,7]
+    0 1 2 3 4 5 6   */
+    
+let container = [1,2,3,4,5,6,7]
+let newArray= container.slice(3)   // output : print from third idx [ 4, 5, 6, 7 ]
+console.log(newArray)
+
+let newArray1= container.slice(3,5)  //output : print from third idx excluding fifth one [ 4, 5 ]
+console.log(newArray1)
+
