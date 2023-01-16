@@ -39,3 +39,10 @@ let a3 = arr3.reduce((value1,value2)=>{
 })
 
 console.log(a3)
+
+/* Output : 14
+  1+2 = 3
+  3+3 = 6
+  6+5 = 11
+  11+2 = 13
+  13+1 = 14   */
